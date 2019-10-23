@@ -1,0 +1,806 @@
+[
+  {
+    "Age": "10-14",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "10-14",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 4
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 1
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 2
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "15-19",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 39
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 19
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 6
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 4
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "20-24",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 32
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 14
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 3
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 5
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "25-29",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 38
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 10
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 3
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "30-34",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 18
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 7
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 3
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "35-39",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 8
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 2
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 3
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 2
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "40-44",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 12
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 1
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 4
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "45-49",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 6
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 7
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "50-54",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 7
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 1
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 8
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 5
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 9
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "55-59",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 4
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 1
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 9
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 3
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "60-64",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 4
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 6
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 2
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "65-69",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 7
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 4
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 4
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "70-74",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 1
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "75-79",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 1
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "80-84",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 1
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Male",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "85-89",
+    "Gender": "Female",
+    "Substance": "Heroin/Street AND Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Male",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Female",
+    "Substance": "Heroin/Street",
+    "Total Count": 0
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Male",
+    "Substance": "Pharmacy",
+    "Total Count": 2
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Female",
+    "Substance": "Pharmacy",
+    "Total Count": 0
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Male",
+    "Substance": "Unknown",
+    "Total Count": 0
+  },
+  {
+    "Age": "90-94",
+    "Gender": "Female",
+    "Substance": "Unknown",
+    "Total Count": 0
+  }
+]

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+    <link href="https://fonts.googleapis.com/css?family=Neuton&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <!-- C3 styles -->
+    <!-- <link href="css/c3.min.css" rel="stylesheet"> -->
+    <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+
+    <nav class="header">
+      <div class="logo"><a href="#">
+        <img src="images/logo.png"></a>
+      </div>
+      <div id="myLinks">
+      <ul class="nav collapse navbar-collapse">
+        <li>
+          <a href="#">log in</a>
+        </li>
+        <li>
+          <a href="#">sign up</a>
+        </li>
+        <li class="search">
+          <a href="#"><img src="images/search.png" alt="#"></a>
+        </li>
+      </ul>
+    </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+      <div class="title col-md-12">
+        <h1>Opiate overdoses most prevalent in young age groups in Austin, Texas in the year 2018</h1>
+        <br>
+        <h4>The opioid crisis continues to plague America's cities, with increasingly younger victims. The city of Austin, Texas recorded 392 opioid overdoses in the year 2018 alone. </h4>
+        <br>
+        <p>BY   <strong>HALYNNA SNYDER</strong>     OCT. 20, 2019</p>
+      </div>
+      </div>
+
+      <div class="intro-text row">
+        <div class="col-md-12">
+          <p>In the year 2018, there were a total of 392 deaths due to opiate overdoses in the city of Autstin, Texas. The data shows the largest group of individuals overdosing were in the age groups of 20-24, 25-29, and 30-34. The younger the age group, the more people used heroin and street drugs as opposed to pharmacy drugs. </p>
+        </div>
+      </div>
+
+    <div class="row">
+      <div id="bar-chart" class="chart col-md-12"></div>
+    </div>
+
+    <div class="intro-text row">
+      <div class="col-md-12">
+        <p><p>
+        </div>
+    </div>
+
+    <div class="row bar-chart-row">
+      <div class="col-md-6">
+        <div id="pie-chart2">
+        </div>
+      </div>
+      <div class="col-md-6 text">
+        <p>While most opiate overdoses are due to heroin and other street drugs, pharmaceutical drugs play a significant role in the opioid crisis. Texas lawmakers are seeking to change legislation surrounding restrictions on opiate prescriptions, which as been met with controversy. While some argue that stricter regulations would lead to less access to these dangerous pharmacetuicals, others say it will only make it more difficult for people to obtain access to necessary treatment for chronic pain and other ailments.
+        </p>
+      </div>
+    </div>
+
+    <div class="row pie-chart-row">
+      <div class="col-md-6">
+        <p>More than twice as many men overdosed on opiates than women, according to the data. Heroin and other street drugs were more prevalent in younger age groups, as opposed to pharmaceutical drugs. These pharmaceutical drugs were more prevalent in older age groups. Although rare, there were a few cases in which heroin or street drugs were used in combination with pharmaceutical drugs, leading to overdose. If you or a loved one is experiencing addiction, please call the SAMHSA (Substance Abuse and Mental Health Services Administration) Hotline, which can be reached at 1-800-662-HELP (4357).
+      </div>
+      <div class="col-md-6">
+        <div id="pie-chart">
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="row table container">
+      <div class="col-md-12">
+      <table id="myTable" class="display table">
+        <thead>
+            <tr>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Substance</th>
+                <th>Total Count</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+              <th>Age</th>
+              <th>Gender</th>
+              <th>Substance</th>
+              <th>Total Count</th>
+            </tr>
+        </tfoot>
+    </table>
+    </div>
+  </div>
+
+  <div class="row footer-border">
+  </div>
+  <div class="footer row">
+    <p>All data retrieved from <a href="https://catalog.data.gov/dataset/opiate-overdoses-by-age-range-gender-and-drug-type-fy-2018">Data.gov</a></p>
+  </div>
+
+    </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+    <!-- D3, C3 stuff -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.11/c3.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+
+  </body>
+</html>

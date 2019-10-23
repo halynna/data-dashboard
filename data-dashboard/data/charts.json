@@ -1,0 +1,682 @@
+[
+  {
+    "Gender": "Male",
+    "Type": "10-14 Male Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "10-14 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "10-14 Male Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "10-14 Female Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "10-14 Male Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "10-14 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "10-14 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "10-14 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "15-19 Male Heroin",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "15-19 Female Heroin",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "15-19 Male Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "15-19 Female Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "15-19 Male Unknown",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "15-19 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "15-19 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "15-19 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "20-24 Male Heroin",
+    "Count": 39
+  },
+  {
+    "Gender": "Female",
+    "Type": "20-24 Female Heroin",
+    "Count": 19
+  },
+  {
+    "Gender": "Male",
+    "Type": "20-24 Male Pharmacy",
+    "Count": 6
+  },
+  {
+    "Gender": "Female",
+    "Type": "20-24 Female Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "20-24 Male Unknown",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "20-24 Female Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "20-24 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "20-24 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "25-29 Male Heroin",
+    "Count": 32
+  },
+  {
+    "Gender": "Female",
+    "Type": "25-29 Female Heroin",
+    "Count": 14
+  },
+  {
+    "Gender": "Male",
+    "Type": "25-29 Male Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "25-29 Female Pharmacy",
+    "Count": 3
+  },
+  {
+    "Gender": "Male",
+    "Type": "25-29 Male Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "25-29 Female Unknown",
+    "Count": 5
+  },
+  {
+    "Gender": "Male",
+    "Type": "25-29 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "25-29 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "30-34 Male Heroin",
+    "Count": 38
+  },
+  {
+    "Gender": "Female",
+    "Type": "30-34 Female Heroin",
+    "Count": 10
+  },
+  {
+    "Gender": "Male",
+    "Type": "30-34 Male Pharmacy",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "30-34 Female Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Male",
+    "Type": "30-34 Male Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "30-34 Female Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Male",
+    "Type": "30-34 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "30-34 Female Heroin AND Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "35-39 Male Heroin",
+    "Count": 18
+  },
+  {
+    "Gender": "Female",
+    "Type": "35-39 Female Heroin",
+    "Count": 7
+  },
+  {
+    "Gender": "Male",
+    "Type": "35-39 Male Pharmacy",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "35-39 Female Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "35-39 Male Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "35-39 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "35-39 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "35-39 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "40-44 Male Heroin",
+    "Count": 8
+  },
+  {
+    "Gender": "Female",
+    "Type": "40-44 Female Heroin",
+    "Count": 2
+  },
+  {
+    "Gender": "Male",
+    "Type": "40-44 Male Pharmacy",
+    "Count": 3
+  },
+  {
+    "Gender": "Female",
+    "Type": "40-44 Female Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Male",
+    "Type": "40-44 Male Unknown",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "40-44 Female Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Male",
+    "Type": "40-44 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "40-44 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "45-49 Male Heroin",
+    "Count": 12
+  },
+  {
+    "Gender": "Female",
+    "Type": "45-49 Female Heroin",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "45-49 Male Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "45-49 Female Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "45-49 Male Unknown",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "45-49 Female Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "45-49 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "45-49 Female Heroin AND Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "50-54 Male Heroin",
+    "Count": 6
+  },
+  {
+    "Gender": "Female",
+    "Type": "50-54 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "50-54 Male Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "50-54 Female Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Male",
+    "Type": "50-54 Male Unknown",
+    "Count": 7
+  },
+  {
+    "Gender": "Female",
+    "Type": "50-54 Female Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "50-54 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "50-54 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "55-59 Male Heroin",
+    "Count": 7
+  },
+  {
+    "Gender": "Female",
+    "Type": "55-59 Female Heroin",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "55-59 Male Pharmacy",
+    "Count": 8
+  },
+  {
+    "Gender": "Female",
+    "Type": "55-59 Female Pharmacy",
+    "Count": 5
+  },
+  {
+    "Gender": "Male",
+    "Type": "55-59 Male Unknown",
+    "Count": 9
+  },
+  {
+    "Gender": "Female",
+    "Type": "55-59 Female Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "55-59 Male Heroin AND Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "55-59 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "60-64 Male Heroin",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "60-64 Female Heroin",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "60-64 Male Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "60-64 Female Pharmacy",
+    "Count": 9
+  },
+  {
+    "Gender": "Male",
+    "Type": "60-64 Male Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "60-64 Female Unknown",
+    "Count": 3
+  },
+  {
+    "Gender": "Male",
+    "Type": "60-64 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "60-64 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "65-69 Male Heroin",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "65-69 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "65-69 Male Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "65-69 Female Pharmacy",
+    "Count": 6
+  },
+  {
+    "Gender": "Male",
+    "Type": "65-69 Male Unknown",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "65-69 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "65-69 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "65-69 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "70-74 Male Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "70-74 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "70-74 Male Pharmacy",
+    "Count": 7
+  },
+  {
+    "Gender": "Female",
+    "Type": "70-74 Female Pharmacy",
+    "Count": 4
+  },
+  {
+    "Gender": "Male",
+    "Type": "70-74 Male Unknown",
+    "Count": 4
+  },
+  {
+    "Gender": "Female",
+    "Type": "70-74 Female Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "70-74 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "70-74 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "75-79 Male Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "75-79 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "75-79 Male Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "75-79 Female Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Male",
+    "Type": "75-79 Male Unknown",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "75-79 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "75-79 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "75-79 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "80-84 Male Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "80-84 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "80-84 Male Pharmacy",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "80-84 Female Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Male",
+    "Type": "80-84 Male Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "80-84 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "80-84 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "80-84 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "85-89 Male Heroin",
+    "Count": 1
+  },
+  {
+    "Gender": "Female",
+    "Type": "85-89 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "85-89 Male Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "85-89 Female Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Male",
+    "Type": "85-89 Male Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "85-89 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "85-89 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "85-89 Female Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "90-94 Male Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "90-94 Female Heroin",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "90-94 Male Pharmacy",
+    "Count": 2
+  },
+  {
+    "Gender": "Female",
+    "Type": "90-94 Female Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "90-94 Male Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "90-94 Female Unknown",
+    "Count": 0
+  },
+  {
+    "Gender": "Male",
+    "Type": "90-94 Male Heroin AND Pharmacy",
+    "Count": 0
+  },
+  {
+    "Gender": "Female",
+    "Type": "90-94 Female Heroin AND Pharmacy",
+    "Count": 0
+  }
+]
